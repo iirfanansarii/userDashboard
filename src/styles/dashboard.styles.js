@@ -39,6 +39,9 @@ export default makeStyles((theme) => ({
     minHeight: '35px',
     minWidth: '120px',
     borderRadius: '0px',
+    fontFamily: `Poppins,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif`,
+    fontWeight: '700',
+    fontSize: '16px',
   },
   tableHead: {
     fontFamily: `Poppins,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif`,
